@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/account"
+        android:icon="@drawable/ic_baseline_face_24"
+        android:title="Dashboard"/>
+
+    <item android:id="@+id/tools"
+        android:icon="@drawable/ic_baseline_pan_tool_24"
+        android:title="Tools"/>
+
+    <item android:id="@+id/settings"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="Settings"/>
+
+    <item android:id="@+id/info"
+        android:icon="@drawable/ic_baseline_info_24"
+        android:title="Help"/>
+
+</menu>
